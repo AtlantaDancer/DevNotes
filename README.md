@@ -14,3 +14,7 @@ Different resources I've come across
 How to handle take home coding challenges
 
 https://www.fullstackinterviewing.com/2018/02/02/the-ultimate-guide-to-kicking-ass-on-take-home-coding-challenges.html
+
+Developer Roadmap
+
+https://github.com/kamranahmedse/developer-roadmap
