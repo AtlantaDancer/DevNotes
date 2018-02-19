@@ -18,3 +18,9 @@ https://www.fullstackinterviewing.com/2018/02/02/the-ultimate-guide-to-kicking-a
 Developer Roadmap
 
 https://github.com/kamranahmedse/developer-roadmap
+
+Youtube interview channel
+
+https://www.youtube.com/c/jenniferbland
+
+
