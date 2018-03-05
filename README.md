@@ -23,4 +23,21 @@ Youtube interview channel
 
 https://www.youtube.com/c/jenniferbland
 
+## Discussion of Code Katas and Kata Catalogs
 
+Jeff Attwook discussion about practicing coding/skills
+
+https://blog.codinghorror.com/the-ultimate-code-kata/
+
+Steve Yegge discussion honing skills
+
+https://sites.google.com/site/steveyegge2/practicing-programming
+
+Dave Thomas Pragmatic Code Katas
+
+http://codekata.com/
+
+Coding Dojo Katas & catalog
+
+http://codingdojo.org/kata/ 
+http://www.codingdojo.org/KataCatalogue/
