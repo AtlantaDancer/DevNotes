@@ -16,28 +16,26 @@ How to handle take home coding challenges
 https://www.fullstackinterviewing.com/2018/02/02/the-ultimate-guide-to-kicking-ass-on-take-home-coding-challenges.html
 
 Developer Roadmap
-
 https://github.com/kamranahmedse/developer-roadmap
 
 Youtube interview channel
-
 https://www.youtube.com/c/jenniferbland
 
 ## Discussion of Code Katas and Kata Catalogs
 
 Jeff Attwook discussion about practicing coding/skills
-
 https://blog.codinghorror.com/the-ultimate-code-kata/
 
 Steve Yegge discussion honing skills
-
 https://sites.google.com/site/steveyegge2/practicing-programming
 
 Dave Thomas Pragmatic Code Katas
-
 http://codekata.com/
 
 Coding Dojo Katas & catalog
 
 http://codingdojo.org/kata/ 
 http://www.codingdojo.org/KataCatalogue/
+
+Offline first examples
+https://ibm-watson-data-lab.github.io/shopping-list/
