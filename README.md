@@ -39,3 +39,6 @@ http://www.codingdojo.org/KataCatalogue/
 
 Offline first examples
 https://ibm-watson-data-lab.github.io/shopping-list/
+
+Article on pouchDB and service workers
+https://medium.com/offline-camp/rethinking-offline-first-sync-for-service-workers-da4727b6dee
